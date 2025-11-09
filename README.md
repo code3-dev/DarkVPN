@@ -11,6 +11,10 @@
 - Multiple server locations worldwide
 - High speed and stable connections
 
+## Compatibility
+
+This app only supports **Android 7 to 13**.
+
 ## How to Use
 
 1. Download the executable from this repository.
